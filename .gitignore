@@ -97,3 +97,9 @@
 .metadata/.plugins/org.eclipse.wst.xml.core/default_catalog.xml
 .metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml
 .metadata/version.ini
+Servers/Tomcat v7.0 Server at localhost-config/catalina.policy
+Servers/Tomcat v7.0 Server at localhost-config/catalina.properties
+Servers/Tomcat v7.0 Server at localhost-config/context.xml
+Servers/Tomcat v7.0 Server at localhost-config/server.xml
+Servers/Tomcat v7.0 Server at localhost-config/tomcat-users.xml
+Servers/Tomcat v7.0 Server at localhost-config/web.xml
